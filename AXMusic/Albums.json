@@ -1,0 +1,20 @@
+[
+        {
+            "name": "Album 1",
+            "art": "circle.grid.3x3",
+            "songs": [
+                    {
+                        "title": "Song 1",
+                        "author": "Ashwin",
+                        "art": "star",
+                        "songPath": "songs/album1/song1.mp3"
+                    },
+                    {
+                        "title": "Song 2",
+                        "author": "Ashwin",
+                        "art": "star",
+                        "songPath": "songs/album1/song1.mp3"
+                    }
+            ]
+        },
+]

@@ -1,0 +1,14 @@
+[
+        {
+            "title": "Song 1",
+            "author": "Ashwin",
+            "art": "star",
+            "songPath": "song1.mp3"
+        },
+        {
+            "title": "Song 2",
+            "author": "Ashwin",
+            "art": "star",
+            "songPath": "song1.mp3"
+        }
+]
